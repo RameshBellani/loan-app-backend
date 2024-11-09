@@ -1,5 +1,11 @@
 # Loan Management API
+POSTMAN loan_app_APIs_customer
 
+https://documenter.getpostman.com/view/39592422/2sAY52cKFw
+
+POSTMAN loan_app_APIs_admin
+
+https://documenter.getpostman.com/view/39592422/2sAY52cKFv
 ## Description
 This is a Loan Management API that supports functionalities such as user registration, login, loan application, repayment submission, and loan approval by admins. The system is designed to manage loan requests, repayments, and user roles (customer and admin).
 
